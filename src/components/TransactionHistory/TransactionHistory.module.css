@@ -1,0 +1,32 @@
+table tr:nth-child(even) {
+  background-color: rgb(199, 188, 188);
+}
+
+.tableElement {
+  width: 600px;
+  margin: auto;
+  margin-top: 20px;
+  border: 1px solid black;
+  border-collapse: collapse;
+  table-layout: auto;
+}
+
+.headBlock {
+  border: 1px solid black;
+  width: 33.33%;
+  background-color: rgba(3, 12, 12, 0.838);
+  color: white;
+}
+
+.bodyBlock {
+  border: 1px solid black;
+  width: 33.33%;
+  color: black;
+}
+
+.bodyBlockType {
+  border: 1px solid black;
+  width: 33.33%;
+  text-transform: capitalize;
+  color: black;
+}

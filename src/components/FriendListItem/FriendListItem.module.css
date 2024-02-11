@@ -1,0 +1,22 @@
+.listElement {
+  border: 1px solid black;
+  border-radius: 4px;
+}
+
+.listWrapper {
+  padding: 10px;
+}
+
+.textElement {
+  font-weight: bold;
+  font-size: 24px;
+  color: black;
+}
+
+.greenText {
+  color: green;
+}
+
+.redText {
+  color: red;
+}

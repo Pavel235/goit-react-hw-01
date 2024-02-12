@@ -4,3 +4,8 @@
   justify-content: center;
   margin-top: 20px;
 }
+
+.listElement {
+  border: 1px solid black;
+  border-radius: 4px;
+}
